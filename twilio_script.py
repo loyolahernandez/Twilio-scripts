@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 """
 ************************************************************************
 * Author = @alexbonella                                                *
@@ -5,7 +7,6 @@
 * Description = Envio de mensajes Twilio con Python                    *
 ************************************************************************
 """
-#!/usr/bin/env python
 
 
 import os
