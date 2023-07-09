@@ -5,7 +5,7 @@
 * Description = Envio de mensajes Twilio con Python                    *
 ************************************************************************
 """
-
+#!/usr/bin/env python
 
 import os
 from twilio.rest import Client
